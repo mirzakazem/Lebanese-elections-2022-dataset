@@ -10,3 +10,5 @@ sheets and features:
 
 4. results by candidates:circle(categorical),	lists(categorical),	candidate(categorical),	Gender(categorical),	Sect(categorical),	preferential votes(Numeric),	won(Boolean)
 
+Kazem.seblani@gmail.com
+june 1, 2022
